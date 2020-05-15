@@ -1,0 +1,1 @@
+{"version":3,"file":"IndexViewModel.js","sourceRoot":"","sources":["../../../../Scripts/app/Views/IndexViewModel.ts"],"names":[],"mappings":";;;IAQA,MAAM,cAAc;QAChB;YACI,eAAM,CAAC,GAAG,CAAC,2BAA2B,CAAC,CAAC;YACxC,CAAC,CAAC,YAAY,CAAC,CAAC,IAAI,CAAC,mBAAmB,CAAC,CAAC;QAC9C,CAAC;KACJ;IAEU,QAAA,SAAS,GAAG,IAAI,cAAc,EAAE,CAAC"}

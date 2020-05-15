@@ -1,0 +1,14 @@
+﻿@using ASP.NET_Core_3._1_MVC_with_Typescript.Helpers
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@section Scripts
+{
+    @Html.InitPageMainModule("Views/IndexViewModel")
+}

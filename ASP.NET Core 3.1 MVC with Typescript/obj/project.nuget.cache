@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+8Yto+Gty4M6iFcGZ7WR/PoieCH/cE+DlIXPA8Jy4n58AfxBshyR6Mm+Y/VFHiMqXOJaRHp9lyPrlfdqF8sVCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tim\\source\\repos\\ASP.NET Core 3.1 MVC with Typescript\\ASP.NET Core 3.1 MVC with Typescript\\ASP.NET Core 3.1 MVC with Typescript.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tim\\.nuget\\packages\\microsoft.typescript.msbuild\\3.8.3\\microsoft.typescript.msbuild.3.8.3.nupkg.sha512",
+    "C:\\Users\\Tim\\.nuget\\packages\\requirejs\\2.3.6\\requirejs.2.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}

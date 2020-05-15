@@ -1,0 +1,40 @@
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\bin\Debug\netcoreapp3.1\Scripts\tsconfig.json
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.exe
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.csprojAssemblyReference.cache
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.RazorAssemblyInfo.cache
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.RazorAssemblyInfo.cs
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.AssemblyInfoInputs.cache
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.AssemblyInfo.cs
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.TagHelpers.input.cache
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.TagHelpers.output.cache
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.RazorCoreGenerate.cache
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.RazorTargetAssemblyInfo.cache
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.RazorTargetAssemblyInfo.cs
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core 3.1 MVC with Typescript.StaticWebAssets.Manifest.cache
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core 3.1 MVC with Typescript.StaticWebAssets.xml
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\bin\Debug\netcoreapp3.1\package.json
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.deps.json
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.runtimeconfig.json
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.runtimeconfig.dev.json
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.dll
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.pdb
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.Views.dll
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.Views.pdb
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.csproj.CoreCompileInputs.cache
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.Views.pdb
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.dll
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.pdb
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.genruntimeconfig.cache
+C:\Users\Tim\source\repos\ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 MVC with Typescript.csproj.CopyComplete
